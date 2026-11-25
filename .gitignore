@@ -1,0 +1,5 @@
+.env
+identitas.txt
+identitas.xlsx
+*.key
+*.pem
